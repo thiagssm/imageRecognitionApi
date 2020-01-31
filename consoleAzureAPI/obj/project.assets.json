@@ -728,24 +728,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Thits\\.nuget\\packages\\": {},
+    "C:\\Users\\thiag\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thits\\Desktop\\consoleAzureAPI\\consoleAzureAPI\\consoleAzureAPI.csproj",
+      "projectUniqueName": "C:\\Users\\thiag\\Desktop\\imageRecognitionApi\\consoleAzureAPI\\consoleAzureAPI.csproj",
       "projectName": "consoleAzureAPI",
-      "projectPath": "C:\\Users\\Thits\\Desktop\\consoleAzureAPI\\consoleAzureAPI\\consoleAzureAPI.csproj",
-      "packagesPath": "C:\\Users\\Thits\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thits\\Desktop\\consoleAzureAPI\\consoleAzureAPI\\obj\\",
+      "projectPath": "C:\\Users\\thiag\\Desktop\\imageRecognitionApi\\consoleAzureAPI\\consoleAzureAPI.csproj",
+      "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thiag\\Desktop\\imageRecognitionApi\\consoleAzureAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Thits\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

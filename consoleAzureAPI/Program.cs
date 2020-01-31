@@ -22,7 +22,7 @@ namespace CSHttpClientSample
         // If you use a free trial subscription key, you shouldn't need to change
         // this region.
         const string uriBase =
-            "https://westcentralus.api.cognitive.microsoft.com/vision/v2.0/analyze";
+            "https://westcentralus.api.cognitive.microsoft.com/vision/v2.1/analyze";
 
         static void Main()
         {
